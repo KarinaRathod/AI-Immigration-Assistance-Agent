@@ -1,0 +1,10 @@
+# Secret Keys (NEVER UPLOAD THESE)
+.env
+.streamlit/secrets.toml
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
